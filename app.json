@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "771c51cf-0280-4dec-a905-6f8eebe22a78"
+      }
+    },
+    "owner": "ikdestiny"
   }
 }
